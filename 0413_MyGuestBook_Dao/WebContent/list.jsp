@@ -19,7 +19,7 @@ table, th, td {border: 1px solid black;}
 <body>
 	<% List<VO> list = DAO.getList();	%>
 	<div align="center">
-		<h2>방명록</h2>
+		<h2>방명록 쓰는곳</h2>
 		<hr />
 		<p>
 			[<a href="write.jsp"> 방명록쓰기 </a>]
